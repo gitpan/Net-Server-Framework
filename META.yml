@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Net-Server-Framework
+version:             1.0
+abstract:            a small framework arounf the famous Net::Server libs
+license:             ~
+author:              
+    - Lenz Gschwendtner <lenz@springtimesoft.com>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
