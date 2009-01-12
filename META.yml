@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Net-Server-Framework
-version:             1.1
-abstract:            a small framework arounf the famous Net::Server libs
+version:             1.2
+abstract:            an event driven infrastructure around Net::Server
 license:             ~
 author:              
     - Lenz Gschwendtner <lenz@springtimesoft.com>
